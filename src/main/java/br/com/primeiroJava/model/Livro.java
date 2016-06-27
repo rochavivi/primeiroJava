@@ -8,6 +8,8 @@ public class Livro {
     public String titulo;
     public String isbn;
     public String lancamento;
+    public String autor;
+
 
 
 

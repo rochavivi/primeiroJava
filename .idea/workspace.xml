@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd269df0-483a-4954-8514-2a501a3c9014" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" />
     </list>
     <ignored path="primeiroJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,17 +33,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Livro.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Livro.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Autor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Autor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Autor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -324,8 +325,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Autor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" />
       </list>
     </option>
   </component>
@@ -954,7 +955,7 @@
       <updated>1467062810193</updated>
       <workItem from="1467062814824" duration="2222000" />
       <workItem from="1467066209155" duration="770000" />
-      <workItem from="1467067057248" duration="136000" />
+      <workItem from="1467067057248" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="Atributos do livro">
       <created>1467067167374</created>
@@ -963,11 +964,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467067167374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atributos do livro">
+      <created>1467067199416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1467067199416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3128000" />
+    <option name="totallyTimeSpent" value="3267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1074,18 +1082,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Autor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
