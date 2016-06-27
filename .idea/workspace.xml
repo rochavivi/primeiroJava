@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd269df0-483a-4954-8514-2a501a3c9014" name="Default" comment="Atributos do livro">
+    <list default="true" id="cd269df0-483a-4954-8514-2a501a3c9014" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/primeiroJava/model/Livro.java" />
     </list>
     <ignored path="primeiroJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,7 +19,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Development\Projects\primeiroJava" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
@@ -955,12 +954,20 @@
       <updated>1467062810193</updated>
       <workItem from="1467062814824" duration="2222000" />
       <workItem from="1467066209155" duration="770000" />
-      <workItem from="1467067057248" duration="38000" />
+      <workItem from="1467067057248" duration="136000" />
     </task>
+    <task id="LOCAL-00001" summary="Atributos do livro">
+      <created>1467067167374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467067167374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3030000" />
+    <option name="totallyTimeSpent" value="3128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
