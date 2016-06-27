@@ -5,10 +5,17 @@ package br.com.primeiroJava.model;
  */
 public class Livro {
 
+     public Livro() {
+
+    }
+    public Livro(String a) {
+
+    }
+
     public String titulo;
     public String isbn;
     public String lancamento;
-    public String autor;
+    public Autor autor;
 
 
 
